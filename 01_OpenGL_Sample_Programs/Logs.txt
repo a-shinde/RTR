@@ -1,0 +1,5 @@
+------------------------------
+----     Amol Shinde      ----
+------------------------------
+Log File Successfully Opened
+Log File Successfully Closed.
