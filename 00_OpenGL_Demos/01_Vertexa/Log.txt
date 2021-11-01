@@ -1,0 +1,628 @@
+Log file successfully created!
+GLSL version is:4.60 - Build 27.20.100.9616
+bones: 6 vertices: 50
+models//model//young_lightskinned_female_diffuse3.png
+Model_lowerleg01_L
+Model_lowerleg02_L
+Model_lowerleg02_R
+Model_foot_L
+Model_foot_R
+Model_lowerleg01_R
+bones: 89 vertices: 52350
+models//model//young_lightskinned_female_diffuse3.png
+Model_lowerarm02_L
+Model_neck02
+Model_metacarpal1_L
+Model_breast_L
+Model_upperarm02_R
+Model_lowerleg01_L
+Model_lowerleg02_L
+Model_neck03
+Model_upperarm01_L
+Model_finger1-2_R
+Model_breast_R
+Model_orbicularis04_R
+Model_orbicularis04_L
+Model_metacarpal4_L
+Model_finger2-1_R
+Model_upperarm01_R
+Model_levator05_L
+Model_wrist_R
+Model_finger3-1_L
+Model_lowerarm01_R
+Model_finger3-2_R
+Model_eye_L
+Model_clavicle_R
+Model_oris05
+Model_oris03_R
+Model_shoulder01_L
+Model_metacarpal3_L
+Model_metacarpal2_R
+Model_eye_R
+Model_finger5-1_L
+Model_finger4-1_R
+Model_finger3-3_R
+Model_metacarpal4_R
+Model_lowerleg02_R
+Model_metacarpal2_L
+Model_foot_L
+Model_foot_R
+Model_finger5-2_R
+Model_oculi01_L
+Model_oris03_L
+Model_finger1-1_L
+Model_finger3-2_L
+Model_risorius03_R
+Model_finger2-2_R
+Model_finger5-3_R
+Model_finger2-1_L
+Model_finger4-3_R
+Model_orbicularis03_L
+Model_finger1-2_L
+Model_levator06_L
+Model_finger3-1_R
+Model_finger1-3_L
+Model_spine01
+Model_head
+Model_levator05_R
+Model_spine02
+Model_finger4-3_L
+Model_metacarpal1_R
+Model_oris01
+Model_finger3-3_L
+Model_finger2-2_L
+Model_metacarpal3_R
+Model_finger4-1_L
+Model_neck01
+Model_wrist_L
+Model_shoulder01_R
+Model_lowerleg01_R
+Model_lowerarm02_R
+Model_upperarm02_L
+Model_finger4-2_R
+Model_jaw
+Model_finger1-1_R
+Model_oculi01_R
+Model_finger1-3_R
+Model_clavicle_L
+Model_spine03
+Model_spine04
+Model_lowerarm01_L
+Model_levator06_R
+Model_finger5-3_L
+Model_finger2-3_R
+Model_orbicularis03_R
+Model_oris07_R
+Model_risorius03_L
+Model_finger2-3_L
+Model_finger5-2_L
+Model_finger5-1_R
+Model_finger4-2_L
+Model_oris07_L
+bones: 31 vertices: 24600
+models//model//braid01_diffuse_brightginger.png
+Model_shoulder01_R
+Model_risorius03_R
+Model_head
+Model_upperarm01_R
+Model_upperarm02_L
+Model_clavicle_R
+Model_oris07_L
+Model_spine05
+Model_jaw
+Model_shoulder01_L
+Model_oculi01_R
+Model_eye_R
+Model_clavicle_L
+Model_spine03
+Model_levator06_L
+Model_neck03
+Model_levator06_R
+Model_upperarm01_L
+Model_neck01
+Model_spine01
+Model_orbicularis04_R
+Model_neck02
+Model_orbicularis03_R
+Model_risorius03_L
+Model_levator05_L
+Model_spine02
+Model_pelvis_L
+Model_orbicularis04_L
+Model_oculi01_L
+Model_spine04
+Model_orbicularis03_L
+bones: 6 vertices: 3180
+models//model//blue_eye.png
+Model_oculi01_R
+Model_eye_R
+Model_orbicularis03_R
+Model_eye_L
+Model_oculi01_L
+Model_orbicularis03_L
+bones: 7 vertices: 576
+models//model//eyebrow003.png
+Model_head
+Model_oculi01_R
+Model_risorius03_R
+Model_orbicularis03_L
+Model_orbicularis03_R
+Model_risorius03_L
+Model_oculi01_L
+bones: 9 vertices: 1104
+models//model//eyelashes03.png
+Model_orbicularis04_R
+Model_oculi01_R
+Model_eye_R
+Model_orbicularis03_R
+Model_orbicularis04_L
+Model_eye_L
+Model_oculi01_L
+Model_head
+Model_orbicularis03_L
+bones: 2 vertices: 21360
+models//model//teeth.png
+Model_head
+Model_jaw
+bones: 17 vertices: 1344
+models//model//tongue01_diffuse.png
+Model_head
+Model_tongue06_R
+Model_tongue07_R
+Model_levator05_R
+Model_oris01
+Model_tongue03
+Model_tongue07_L
+Model_tongue04
+Model_oris03_R
+Model_levator05_L
+Model_tongue06_L
+Model_tongue01
+Model_tongue05_R
+Model_tongue02
+Model_jaw
+Model_tongue05_L
+Model_oris03_L
+bones: 16 vertices: 11982
+models//model//riding_breeches.png
+Model_lowerleg01_R
+Model_lowerleg02_R
+Model_upperleg01_L
+Model_upperleg01_R
+Model_foot_L
+Model_spine05
+Model_pelvis_R
+Model_spine02
+Model_upperleg02_R
+Model_upperleg02_L
+Model_pelvis_L
+Model_lowerleg01_L
+Model_lowerleg02_L
+Model_spine04
+Model_foot_R
+Model_spine03
+bones: 10 vertices: 3576
+models//model//basicleather.png
+Model_lowerleg01_R
+Model_upperleg02_R
+Model_upperleg02_L
+Model_toe1-1_L
+Model_lowerleg02_R
+Model_toe1-1_R
+Model_lowerleg01_L
+Model_lowerleg02_L
+Model_foot_L
+Model_foot_R
+bones: 26 vertices: 8112
+models//model//leather_armor_diffuse.png
+Model_shoulder01_R
+Model_spine01
+Model_upperarm02_L
+Model_upperarm01_R
+Model_breast_L
+Model_clavicle_R
+Model_upperleg01_R
+Model_spine05
+Model_pelvis_R
+Model_shoulder01_L
+Model_upperarm02_R
+Model_clavicle_L
+Model_spine03
+Model_jaw
+Model_neck03
+Model_upperarm01_L
+Model_neck01
+Model_breast_R
+Model_head
+Model_neck02
+Model_spine02
+Model_upperleg02_R
+Model_pelvis_L
+Model_upperleg02_L
+Model_upperleg01_L
+Model_spine04
+bones: 86 vertices: 201624
+models//model//dressCode//young_lightskinned_female_diffuse3.png
+Model_orbicularis04_R
+Model_lowerarm01_R
+Model_head
+Model_finger2-2_L
+Model_finger4-2_R
+Model_metacarpal1_L
+Model_eye_R
+Model_oris03_L
+Model_breast_L
+Model_spine01
+Model_finger2-3_L
+Model_levator06_L
+Model_lowerarm02_R
+Model_metacarpal1_R
+Model_oris03_R
+Model_levator05_L
+Model_orbicularis03_L
+Model_lowerleg01_L
+Model_finger4-3_L
+Model_spine04
+Model_shoulder01_L
+Model_clavicle_L
+Model_neck02
+Model_orbicularis04_L
+Model_finger5-2_R
+Model_finger3-3_R
+Model_upperarm01_L
+Model_metacarpal2_L
+Model_finger3-1_L
+Model_finger2-3_R
+Model_levator05_R
+Model_neck03
+Model_finger5-3_R
+Model_upperarm01_R
+Model_finger1-3_L
+Model_clavicle_R
+Model_oculi01_L
+Model_eye_L
+Model_finger4-1_L
+Model_finger4-1_R
+Model_finger2-1_R
+Model_oculi01_R
+Model_finger5-1_L
+Model_finger4-2_L
+Model_finger5-2_L
+Model_risorius03_L
+Model_metacarpal2_R
+Model_upperarm02_R
+Model_finger2-1_L
+Model_oris05
+Model_spine02
+Model_neck01
+Model_metacarpal3_L
+Model_finger1-1_R
+Model_finger5-1_R
+Model_metacarpal4_L
+Model_finger3-2_R
+Model_lowerarm01_L
+Model_wrist_R
+Model_lowerleg02_L
+Model_finger5-3_L
+Model_oris07_L
+Model_foot_L
+Model_breast_R
+Model_finger2-2_R
+Model_finger3-1_R
+Model_metacarpal3_R
+Model_jaw
+Model_oris07_R
+Model_finger1-1_L
+Model_finger3-3_L
+Model_spine03
+Model_upperarm02_L
+Model_finger1-3_R
+Model_finger1-2_L
+Model_orbicularis03_R
+Model_oris01
+Model_finger4-3_R
+Model_finger3-2_L
+Model_finger1-2_R
+Model_shoulder01_R
+Model_wrist_L
+Model_lowerarm02_L
+Model_levator06_R
+Model_metacarpal4_R
+Model_risorius03_R
+bones: 31 vertices: 98400
+models//model//dressCode//braid01_diffuse_brightginger.png
+Model_spine05
+Model_orbicularis04_R
+Model_spine02
+Model_upperarm01_L
+Model_pelvis_L
+Model_head
+Model_neck01
+Model_neck03
+Model_jaw
+Model_eye_R
+Model_oris07_L
+Model_upperarm01_R
+Model_spine01
+Model_levator06_L
+Model_neck02
+Model_clavicle_R
+Model_oculi01_L
+Model_levator05_L
+Model_orbicularis03_R
+Model_orbicularis03_L
+Model_upperarm02_L
+Model_risorius03_R
+Model_oculi01_R
+Model_shoulder01_R
+Model_spine04
+Model_shoulder01_L
+Model_risorius03_L
+Model_spine03
+Model_levator06_R
+Model_clavicle_L
+Model_orbicularis04_L
+bones: 6 vertices: 12384
+models//model//dressCode//blue_eye.png
+Model_oculi01_R
+Model_eye_R
+Model_eye_L
+Model_orbicularis03_R
+Model_orbicularis03_L
+Model_oculi01_L
+bones: 7 vertices: 2304
+models//model//dressCode//eyebrow003.png
+Model_oculi01_R
+Model_oculi01_L
+Model_orbicularis03_R
+Model_risorius03_L
+Model_head
+Model_orbicularis03_L
+Model_risorius03_R
+bones: 9 vertices: 4416
+models//model//dressCode//eyelashes03.png
+Model_oculi01_R
+Model_eye_R
+Model_eye_L
+Model_orbicularis04_R
+Model_oculi01_L
+Model_orbicularis03_R
+Model_head
+Model_orbicularis03_L
+Model_orbicularis04_L
+bones: 2 vertices: 85440
+models//model//dressCode//teeth.png
+Model_jaw
+Model_head
+bones: 17 vertices: 5376
+models//model//dressCode//tongue01_diffuse.png
+Model_tongue02
+Model_tongue01
+Model_tongue05_L
+Model_tongue06_R
+Model_tongue03
+Model_head
+Model_levator05_L
+Model_levator05_R
+Model_tongue04
+Model_jaw
+Model_oris03_L
+Model_tongue07_L
+Model_oris01
+Model_tongue07_R
+Model_tongue05_R
+Model_tongue06_L
+Model_oris03_R
+bones: 34 vertices: 50832
+models//model//dressCode//female_casualsuit01_diffuse.png
+Model_spine05
+Model_spine02
+Model_upperarm01_L
+Model_upperleg02_L
+Model_pelvis_L
+Model_lowerleg01_L
+Model_head
+Model_upperarm02_L
+Model_neck03
+Model_jaw
+Model_lowerleg02_R
+Model_spine04
+Model_breast_L
+Model_foot_R
+Model_upperarm01_R
+Model_spine01
+Model_pelvis_R
+Model_neck02
+Model_breast_R
+Model_lowerleg01_R
+Model_upperleg01_L
+Model_lowerarm01_L
+Model_upperarm02_R
+Model_lowerarm01_R
+Model_upperleg01_R
+Model_upperleg02_R
+Model_shoulder01_R
+Model_lowerleg02_L
+Model_shoulder01_L
+Model_clavicle_R
+Model_spine03
+Model_neck01
+Model_clavicle_L
+Model_foot_L
+bones: 8 vertices: 10704
+models//model//dressCode//basicleather.png
+Model_lowerleg01_R
+Model_lowerleg02_R
+Model_toe1-1_L
+Model_lowerleg02_L
+Model_foot_R
+Model_toe1-1_R
+Model_lowerleg01_L
+Model_foot_L
+Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"k"}Parcing - index:1 Value:
+{"time":96,"type":"viseme","value":"@"}Parcing - index:2 Value:
+{"time":127,"type":"viseme","value":"t"}Parcing - index:3 Value:
+{"time":219,"type":"viseme","value":"@"}Parcing - index:4 Value:
+{"time":397,"type":"viseme","value":"E"}Parcing - index:5 Value:
+{"time":508,"type":"viseme","value":"f"}Parcing - index:6 Value:
+{"time":590,"type":"viseme","value":"r"}Parcing - index:7 Value:
+{"time":660,"type":"viseme","value":"i"}Parcing - index:8 Value:
+{"time":686,"type":"viseme","value":"u"}Parcing - index:9 Value:
+{"time":805,"type":"viseme","value":"E"}Parcing - index:10 Value:
+{"time":882,"type":"viseme","value":"t"}Parcing - index:11 Value:
+{"time":1029,"type":"viseme","value":"sil"}Parcing - index:12 Value:
+{"time":1222,"type":"viseme","value":"i"}Parcing - index:13 Value:
+{"time":1275,"type":"viseme","value":"t"}Parcing - index:14 Value:
+{"time":1330,"type":"viseme","value":"i"}Parcing - index:15 Value:
+{"time":1377,"type":"viseme","value":"s"}Parcing - index:16 Value:
+{"time":1455,"type":"viseme","value":"@"}Parcing - index:17 Value:
+{"time":1506,"type":"viseme","value":"t"}Parcing - index:18 Value:
+{"time":1556,"type":"viseme","value":"O"}Parcing - index:19 Value:
+{"time":1677,"type":"viseme","value":"t"}Parcing - index:20 Value:
+{"time":1730,"type":"viseme","value":"@"}Parcing - index:21 Value:
+{"time":1788,"type":"viseme","value":"r"}Parcing - index:22 Value:
+{"time":1828,"type":"viseme","value":"t"}Parcing - index:23 Value:
+{"time":1892,"type":"viseme","value":"u"}Parcing - index:24 Value:
+{"time":1934,"type":"viseme","value":"p"}Parcing - index:25 Value:
+{"time":2007,"type":"viseme","value":"i"}Parcing - index:26 Value:
+{"time":2075,"type":"viseme","value":"k"}Parcing - index:27 Value:
+{"time":2181,"type":"viseme","value":"i"}Parcing - index:28 Value:
+{"time":2272,"type":"viseme","value":"r"}Parcing - index:29 Value:
+{"time":2312,"type":"viseme","value":"u"}Parcing - index:30 Value:
+{"time":2415,"type":"viseme","value":"i"}Parcing - index:31 Value:
+{"time":2441,"type":"viseme","value":"T"}Parcing - index:32 Value:
+{"time":2496,"type":"viseme","value":"i"}Parcing - index:33 Value:
+{"time":2576,"type":"viseme","value":"u"}Parcing - index:34 Value:
+{"time":2627,"type":"viseme","value":"t"}Parcing - index:35 Value:
+{"time":2688,"type":"viseme","value":"@"}Parcing - index:36 Value:
+{"time":2738,"type":"viseme","value":"t"}Parcing - index:37 Value:
+{"time":2808,"type":"viseme","value":"e"}Parcing - index:38 Value:
+{"time":3076,"type":"viseme","value":"sil"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"k"}Parcing - index:1 Value:
+{"time":96,"type":"viseme","value":"@"}Parcing - index:2 Value:
+{"time":127,"type":"viseme","value":"t"}Parcing - index:3 Value:
+{"time":219,"type":"viseme","value":"@"}Parcing - index:4 Value:
+{"time":397,"type":"viseme","value":"E"}Parcing - index:5 Value:
+{"time":508,"type":"viseme","value":"f"}Parcing - index:6 Value:
+{"time":590,"type":"viseme","value":"r"}Parcing - index:7 Value:
+{"time":660,"type":"viseme","value":"i"}Parcing - index:8 Value:
+{"time":686,"type":"viseme","value":"u"}Parcing - index:9 Value:
+{"time":805,"type":"viseme","value":"E"}Parcing - index:10 Value:
+{"time":882,"type":"viseme","value":"t"}Parcing - index:11 Value:
+{"time":1029,"type":"viseme","value":"sil"}Parcing - index:12 Value:
+{"time":1222,"type":"viseme","value":"i"}Parcing - index:13 Value:
+{"time":1275,"type":"viseme","value":"t"}Parcing - index:14 Value:
+{"time":1330,"type":"viseme","value":"i"}Parcing - index:15 Value:
+{"time":1377,"type":"viseme","value":"s"}Parcing - index:16 Value:
+{"time":1455,"type":"viseme","value":"@"}Parcing - index:17 Value:
+{"time":1506,"type":"viseme","value":"t"}Parcing - index:18 Value:
+{"time":1556,"type":"viseme","value":"O"}Parcing - index:19 Value:
+{"time":1677,"type":"viseme","value":"t"}Parcing - index:20 Value:
+{"time":1730,"type":"viseme","value":"@"}Parcing - index:21 Value:
+{"time":1788,"type":"viseme","value":"r"}Parcing - index:22 Value:
+{"time":1828,"type":"viseme","value":"t"}Parcing - index:23 Value:
+{"time":1892,"type":"viseme","value":"u"}Parcing - index:24 Value:
+{"time":1934,"type":"viseme","value":"p"}Parcing - index:25 Value:
+{"time":2007,"type":"viseme","value":"i"}Parcing - index:26 Value:
+{"time":2075,"type":"viseme","value":"k"}Parcing - index:27 Value:
+{"time":2181,"type":"viseme","value":"i"}Parcing - index:28 Value:
+{"time":2272,"type":"viseme","value":"r"}Parcing - index:29 Value:
+{"time":2312,"type":"viseme","value":"u"}Parcing - index:30 Value:
+{"time":2415,"type":"viseme","value":"i"}Parcing - index:31 Value:
+{"time":2441,"type":"viseme","value":"T"}Parcing - index:32 Value:
+{"time":2496,"type":"viseme","value":"i"}Parcing - index:33 Value:
+{"time":2576,"type":"viseme","value":"u"}Parcing - index:34 Value:
+{"time":2627,"type":"viseme","value":"t"}Parcing - index:35 Value:
+{"time":2688,"type":"viseme","value":"@"}Parcing - index:36 Value:
+{"time":2738,"type":"viseme","value":"t"}Parcing - index:37 Value:
+{"time":2808,"type":"viseme","value":"e"}Parcing - index:38 Value:
+{"time":3076,"type":"viseme","value":"sil"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"p"}Parcing - index:1 Value:
+{"time":2000,"type":"viseme","value":"p"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"p"}Parcing - index:1 Value:
+{"time":2000,"type":"viseme","value":"p"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"p"}Parcing - index:1 Value:
+{"time":2000,"type":"viseme","value":"p"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"p"}Parcing - index:1 Value:
+{"time":2000,"type":"viseme","value":"p"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"p"}Parcing - index:1 Value:
+{"time":2000,"type":"viseme","value":"p"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"k"}Parcing - index:1 Value:
+{"time":96,"type":"viseme","value":"@"}Parcing - index:2 Value:
+{"time":127,"type":"viseme","value":"t"}Parcing - index:3 Value:
+{"time":219,"type":"viseme","value":"@"}Parcing - index:4 Value:
+{"time":397,"type":"viseme","value":"E"}Parcing - index:5 Value:
+{"time":508,"type":"viseme","value":"f"}Parcing - index:6 Value:
+{"time":590,"type":"viseme","value":"r"}Parcing - index:7 Value:
+{"time":660,"type":"viseme","value":"i"}Parcing - index:8 Value:
+{"time":686,"type":"viseme","value":"u"}Parcing - index:9 Value:
+{"time":805,"type":"viseme","value":"E"}Parcing - index:10 Value:
+{"time":882,"type":"viseme","value":"t"}Parcing - index:11 Value:
+{"time":1029,"type":"viseme","value":"sil"}Parcing - index:12 Value:
+{"time":1222,"type":"viseme","value":"i"}Parcing - index:13 Value:
+{"time":1275,"type":"viseme","value":"t"}Parcing - index:14 Value:
+{"time":1330,"type":"viseme","value":"i"}Parcing - index:15 Value:
+{"time":1377,"type":"viseme","value":"s"}Parcing - index:16 Value:
+{"time":1455,"type":"viseme","value":"@"}Parcing - index:17 Value:
+{"time":1506,"type":"viseme","value":"t"}Parcing - index:18 Value:
+{"time":1556,"type":"viseme","value":"O"}Parcing - index:19 Value:
+{"time":1677,"type":"viseme","value":"t"}Parcing - index:20 Value:
+{"time":1730,"type":"viseme","value":"@"}Parcing - index:21 Value:
+{"time":1788,"type":"viseme","value":"r"}Parcing - index:22 Value:
+{"time":1828,"type":"viseme","value":"t"}Parcing - index:23 Value:
+{"time":1892,"type":"viseme","value":"u"}Parcing - index:24 Value:
+{"time":1934,"type":"viseme","value":"p"}Parcing - index:25 Value:
+{"time":2007,"type":"viseme","value":"i"}Parcing - index:26 Value:
+{"time":2075,"type":"viseme","value":"k"}Parcing - index:27 Value:
+{"time":2181,"type":"viseme","value":"i"}Parcing - index:28 Value:
+{"time":2272,"type":"viseme","value":"r"}Parcing - index:29 Value:
+{"time":2312,"type":"viseme","value":"u"}Parcing - index:30 Value:
+{"time":2415,"type":"viseme","value":"i"}Parcing - index:31 Value:
+{"time":2441,"type":"viseme","value":"T"}Parcing - index:32 Value:
+{"time":2496,"type":"viseme","value":"i"}Parcing - index:33 Value:
+{"time":2576,"type":"viseme","value":"u"}Parcing - index:34 Value:
+{"time":2627,"type":"viseme","value":"t"}Parcing - index:35 Value:
+{"time":2688,"type":"viseme","value":"@"}Parcing - index:36 Value:
+{"time":2738,"type":"viseme","value":"t"}Parcing - index:37 Value:
+{"time":2808,"type":"viseme","value":"e"}Parcing - index:38 Value:
+{"time":3076,"type":"viseme","value":"sil"}Parsing speech marks..
+Parcing - index:0 Value:{"time":6,"type":"viseme","value":"k"}Parcing - index:1 Value:
+{"time":96,"type":"viseme","value":"@"}Parcing - index:2 Value:
+{"time":127,"type":"viseme","value":"t"}Parcing - index:3 Value:
+{"time":219,"type":"viseme","value":"@"}Parcing - index:4 Value:
+{"time":397,"type":"viseme","value":"E"}Parcing - index:5 Value:
+{"time":508,"type":"viseme","value":"f"}Parcing - index:6 Value:
+{"time":590,"type":"viseme","value":"r"}Parcing - index:7 Value:
+{"time":660,"type":"viseme","value":"i"}Parcing - index:8 Value:
+{"time":686,"type":"viseme","value":"u"}Parcing - index:9 Value:
+{"time":805,"type":"viseme","value":"E"}Parcing - index:10 Value:
+{"time":882,"type":"viseme","value":"t"}Parcing - index:11 Value:
+{"time":1029,"type":"viseme","value":"sil"}Parcing - index:12 Value:
+{"time":1222,"type":"viseme","value":"i"}Parcing - index:13 Value:
+{"time":1275,"type":"viseme","value":"t"}Parcing - index:14 Value:
+{"time":1330,"type":"viseme","value":"i"}Parcing - index:15 Value:
+{"time":1377,"type":"viseme","value":"s"}Parcing - index:16 Value:
+{"time":1455,"type":"viseme","value":"@"}Parcing - index:17 Value:
+{"time":1506,"type":"viseme","value":"t"}Parcing - index:18 Value:
+{"time":1556,"type":"viseme","value":"O"}Parcing - index:19 Value:
+{"time":1677,"type":"viseme","value":"t"}Parcing - index:20 Value:
+{"time":1730,"type":"viseme","value":"@"}Parcing - index:21 Value:
+{"time":1788,"type":"viseme","value":"r"}Parcing - index:22 Value:
+{"time":1828,"type":"viseme","value":"t"}Parcing - index:23 Value:
+{"time":1892,"type":"viseme","value":"u"}Parcing - index:24 Value:
+{"time":1934,"type":"viseme","value":"p"}Parcing - index:25 Value:
+{"time":2007,"type":"viseme","value":"i"}Parcing - index:26 Value:
+{"time":2075,"type":"viseme","value":"k"}Parcing - index:27 Value:
+{"time":2181,"type":"viseme","value":"i"}Parcing - index:28 Value:
+{"time":2272,"type":"viseme","value":"r"}Parcing - index:29 Value:
+{"time":2312,"type":"viseme","value":"u"}Parcing - index:30 Value:
+{"time":2415,"type":"viseme","value":"i"}Parcing - index:31 Value:
+{"time":2441,"type":"viseme","value":"T"}Parcing - index:32 Value:
+{"time":2496,"type":"viseme","value":"i"}Parcing - index:33 Value:
+{"time":2576,"type":"viseme","value":"u"}Parcing - index:34 Value:
+{"time":2627,"type":"viseme","value":"t"}Parcing - index:35 Value:
+{"time":2688,"type":"viseme","value":"@"}Parcing - index:36 Value:
+{"time":2738,"type":"viseme","value":"t"}Parcing - index:37 Value:
+{"time":2808,"type":"viseme","value":"e"}Parcing - index:38 Value:
+{"time":3076,"type":"viseme","value":"sil"}Closing log file
