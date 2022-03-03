@@ -1,8 +1,5 @@
 #pragma once
 
-/****************************************************************************
-30-Jun-2018    V1.0    RHS    $$1 Created
-*****************************************************************************/
 #include <iostream>
 #include <xercesc/dom/DOM.hpp>
 #include <xercesc/dom/DOMElement.hpp>
@@ -224,36 +221,3 @@ public:
 
 };
 
-
-/*library_Animations
-We will always have:
-Number of sources = cahnels *3 or sampler*3.
-3 is for Input, Interpolation, Output.
-So if we have 1 chanel and 1 sample then we will have 3 sources.
-If we have 8 chanel and 8 sample then we will have 8*3 sources.
-
-<channel source="#ABC_root-transform_ABC_root-sampler"
-target="ABC_root/transform(0)(0)"/>
-
-<channel source="#Armature_Chest_pose_matrix-sampler" target="Chest/transform"/>
-
-In the first case the "target" attribute will have "transform (X) (Y)"
-after the last "/" in its value and in the second case the "target" attribute
-will have "transform" after the last "/" in its value.
-
-In the second form the values of the matrix which we backed in,
-are given in one <source> out of those 3 <source>s, just like the
-one <source> we read in reading inverse bind matrices from controller.
-While in the first form values of each component of the 4 x 4 matrix are given
-in different <source>s.
-And we have to combine them in one matrix when we read the data.
-
-We read the Joint matrices for each joint from the <visual_scene> node.
-These values (which will be matrices) which we read from <animation> nodes
-for those joints, which are targeted through the "target" attribute of the 
-<channel> of that <animation> will replace the Joint matrices, we read
-earlier from <visual_scene> for each key frame defined in the animation.
-And to calculate the world transformation matrix for each joint we will have
-to take this new Joint Matrix and multiply it with the parent Joint's
-world transformation matrix.
-*/
