@@ -7,17 +7,6 @@ The Chosen Driver Is Of
 Hardware Type.
 The Supported Highest Feature Level Is
 11.0
-D3DCompile() Succeeded For Vertex Shader.
-ID3D11Device::CreateVertexShader() Succeeded.
-D3DCompile() Succeeded For Pixel Shader.
-ID3D11Device::CreatePixelShader() Succeeded.
-ID3D11Device::CreateBuffer() Succeeded For Position Buffer.
-ID3D11Device::CreateBuffer() Succeeded For Color Buffer.
-ID3D11Device::CreateBuffer() Succeeded For Position Buffer.
-ID3D11Device::CreateBuffer() Succeeded For Color Buffer.
-ID3D11Device::CreateBuffer() Succeeded For Constant Buffer.
-ID3D11Device::CreateInputLayout() Succeeded.
-initializeData() Successded
 ID3D11Device::CreateRenderTargetView() Succeeded
 resize() Successded
 initialize() Succeeded.
